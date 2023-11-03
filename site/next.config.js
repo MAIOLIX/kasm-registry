@@ -4,9 +4,9 @@ const nextConfig = {
   env: {
     name: 'Maiolix Tech',
     description: 'Maiolix Kasm workspace',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    icon: 'https://github.com/MAIOLIX/kasm-registry/edit/1.0/Maiolix2-logo-t.png',
+    listUrl: 'https://github.com/MAIOLIX/kasm-registry',
+    contactUrl: 'https://github.com/MAIOLIX/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
